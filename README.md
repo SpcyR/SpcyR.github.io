@@ -1,6 +1,9 @@
 ## Welcome to My Pages
 
+---
+
 Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
+
 Now I am studying Computer Engineering at King Mongkut's University of Technology North Bangkok.
 I hope you will know me better with this page.
 
@@ -11,9 +14,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 PROFILE
 
-# Header 1
-## Header 2
-### Header 3
+> SONGKHLA 
+> THAILAND
+
+> BORN IN 2002
+
 
 - Bulleted
 - List
