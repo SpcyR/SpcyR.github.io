@@ -1,4 +1,4 @@
-## Welcome to My Pages
+## __WELCOME TO MY PAGE__
 
 ---
 
@@ -7,10 +7,17 @@ Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me B
 Now I am studying Computer Engineering at King Mongkut's University of Technology North Bangkok.
 I hope you will know me better with this page.
 
+
+
+
 > SONGKHLA
 > THAILAND
 
 > BORN IN 2002
+
+
+
+
 
 ### __CONTACT__ 
 
