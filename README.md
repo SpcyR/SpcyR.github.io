@@ -25,3 +25,8 @@ I hope you will know me better with this page.
 Facebook | Supitchaya Rodchomchin
 Instagram | 13ew_45
 E-mail | rodchomchin7354@gmail.com  
+
+[Facebook] | [Instagram]
+
+[Facebook]: https://www.facebook.com/supitchaya.rodchomchin
+[Instagram]: https://www.instagram.com/13ew_45
