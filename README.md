@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/SpcyR/SpcyR.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
+Now I am studying Computer Engineering at King Mongkut's University of Technology North Bangkok.
+I hope you will know me better with this page.
 
 ### Markdown
 
