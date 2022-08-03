@@ -18,9 +18,9 @@ Now I am studying Computer Engineering at King Mongkut's University of Technolog
 
 
 
-### __CONTACT__  
+### __CONTACT__
 
-[Facebook] | [Instagram] | E-mail : rodchomchin7354@gmail.com
+Facebook : [Supitchaya Rodchomchin] | Instagram : [13ew_45] | E-mail : rodchomchin7354@gmail.com
 
-[Facebook]: https://www.facebook.com/supitchaya.rodchomchin
-[Instagram]: https://www.instagram.com/13ew_45
+[Supitchaya Rodchomchin]: https://www.facebook.com/supitchaya.rodchomchin
+[13ew_45]: https://www.instagram.com/13ew_45
