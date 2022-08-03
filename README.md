@@ -3,7 +3,9 @@
 ---
 
 Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
-![me2](https://user-images.githubusercontent.com/109605354/182649486-e1d993bd-cfb4-46cb-a29b-d446a06089ae.jpg =200x250)
+
+![me2] (https://user-images.githubusercontent.com/109605354/182649486-e1d993bd-cfb4-46cb-a29b-d446a06089ae.jpg =200x250)
+
 Now I am studying Computer Engineering at King Mongkut's University of Technology North Bangkok.
 
 
