@@ -6,10 +6,6 @@ Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me B
 
 ![](git/me3.jpg#center)
 
-<p align="center">
-  <img src="https://github.com/SpcyR/SpcyR.github.io/blob/main/git/me3.jpg">
-</p>
-
 Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</mark> at King Mongkut's University of Technology North Bangkok.
 
 > SONGKHLA
