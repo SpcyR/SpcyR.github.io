@@ -6,7 +6,7 @@ Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me B
 
 ![](git/me3.jpg)
 
-Now I am studying Computer Engineering at King Mongkut's University of Technology North Bangkok.
+Now I am studying ==Computer Engineering== at King Mongkut's University of Technology North Bangkok.
 
 
 
