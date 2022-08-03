@@ -1,8 +1,16 @@
+<head>
+<style>
+p {font-size:16px;
+ font-family: cursive;
+ }
+</style>
+</head>
+
 ## __WELCOME TO MY PAGE__ 👋
 
 ---
 
-<p style = "font-family: cursive;" "font-size:16px"> Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.</p>
+<p> Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.</p>
 
 ![](git/me3.jpg)
 
