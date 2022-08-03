@@ -13,7 +13,7 @@ Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</m
 
 
 > SONGKHLA
->> THAILAND
+> THAILAND
 
 > BORN IN 2002
 
