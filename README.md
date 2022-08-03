@@ -1,8 +1,7 @@
-html *
-{
- font-family: cursive; !important
-}
-
+<html>
+<body
+      style = "font-family: cursive;">
+ 
 
 ## __WELCOME TO MY PAGE__ 👋
 
@@ -36,3 +35,7 @@ E-mail : rodchomchin7354@gmail.com|
 
 [Supitchaya Rodchomchin]: https://www.facebook.com/supitchaya.rodchomchin
 [13ew_45]: https://www.instagram.com/13ew_45
+
+ 
+ </body>
+ </html>
