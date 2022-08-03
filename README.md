@@ -20,7 +20,7 @@ Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</m
 
 
 
-###  <mark style="color:#FFF3A9">__CONTACT__</mark>
+###  <p style="color:#FFF3A9">__CONTACT__</p>
 
 Facebook : [Supitchaya Rodchomchin]|
 
