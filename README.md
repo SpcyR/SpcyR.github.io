@@ -4,20 +4,18 @@
 
 Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
 
-<div style="text-align: center;">
 ![](git/me3.jpg#center)
-</div>
+
+<p align="center">
+  <img src="https://github.com/SpcyR/SpcyR.github.io/blob/main/git/me3.jpg">
+</p>
 
 Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</mark> at King Mongkut's University of Technology North Bangkok.
-
-
-
 
 > SONGKHLA
 > THAILAND
 
 > BORN IN 2002
-
 
 <h3 style="color:#FFF3A9"> <b> CONTACT </b> </h3>
 
