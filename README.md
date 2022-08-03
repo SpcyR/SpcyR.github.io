@@ -2,7 +2,7 @@
 
 ---
 
-<p style = "font-family: cursive;"> Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
+Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
 
 ![](git/me3.jpg)
 
@@ -26,6 +26,6 @@ Instagram : [13ew_45]|
 E-mail : rodchomchin7354@gmail.com|
 
 [Supitchaya Rodchomchin]: https://www.facebook.com/supitchaya.rodchomchin
-[13ew_45]: https://www.instagram.com/13ew_45 </p>
+[13ew_45]: https://www.instagram.com/13ew_45
 
  
