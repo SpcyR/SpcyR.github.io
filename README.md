@@ -1,16 +1,8 @@
-<head>
-<style>
-p {font-size:16px;
- font-family: cursive;
- }
-</style>
-</head>
-
 ## __WELCOME TO MY PAGE__ 👋
 
 ---
 
-<p> Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.</p>
+<p style = "font-family: cursive;"> Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
 
 ![](git/me3.jpg)
 
@@ -24,9 +16,6 @@ Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</m
 
 > BORN IN 2002
 
- </body>
- </html>
-
 
 <h3 style="color:#FFF3A9"> <b> CONTACT </b> </h3>
 
@@ -37,6 +26,6 @@ Instagram : [13ew_45]|
 E-mail : rodchomchin7354@gmail.com|
 
 [Supitchaya Rodchomchin]: https://www.facebook.com/supitchaya.rodchomchin
-[13ew_45]: https://www.instagram.com/13ew_45
+[13ew_45]: https://www.instagram.com/13ew_45 </p
 
  
