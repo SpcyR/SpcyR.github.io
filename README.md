@@ -1,4 +1,4 @@
-## __WELCOME TO MY PAGE__
+## __WELCOME TO MY PAGE__ 👋
 
 ---
 
