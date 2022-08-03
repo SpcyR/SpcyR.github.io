@@ -1,3 +1,9 @@
+html *
+{
+ font-family: cursive; !important
+}
+
+
 ## __WELCOME TO MY PAGE__ 👋
 
 ---
