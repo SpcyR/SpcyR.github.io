@@ -24,8 +24,8 @@ Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</m
 
 > BORN IN 2002
 
-
-
+ </body>
+ </html>
 
 
 <h3 style="color:#FFF3A9"> <b> CONTACT </b> </h3>
@@ -40,5 +40,3 @@ E-mail : rodchomchin7354@gmail.com|
 [13ew_45]: https://www.instagram.com/13ew_45
 
  
- </body>
- </html>
