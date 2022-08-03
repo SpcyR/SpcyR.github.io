@@ -1,13 +1,8 @@
-<html>
-<body
-      style = "font-family: cursive;">
- 
-
 ## __WELCOME TO MY PAGE__ 👋
 
 ---
 
-Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
+<p style = "font-family: cursive;"> Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.</p>
 
 ![](git/me3.jpg)
 
