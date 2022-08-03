@@ -6,10 +6,6 @@ Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me B
 
 ![](git/me3.jpg#center)
 
-img[src*='#center'] {
-    display: block;
-    margin: auto;
-}
 
 Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</mark> at King Mongkut's University of Technology North Bangkok.
 
@@ -17,7 +13,7 @@ Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</m
 
 
 > SONGKHLA
-> THAILAND
+>> THAILAND
 
 > BORN IN 2002
 
