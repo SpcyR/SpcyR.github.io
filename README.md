@@ -4,7 +4,7 @@
 
 Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
 
-![me2] https://github.com/SpcyR/SpcyR.github.io/blob/main/git/me2.jpg
+![me2] (https://github.com/SpcyR/SpcyR.github.io/blob/main/git/me2.jpg)
 
 Now I am studying Computer Engineering at King Mongkut's University of Technology North Bangkok.
 
