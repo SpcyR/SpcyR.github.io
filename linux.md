@@ -14,7 +14,7 @@ title: Install Ubuntu
 
 
 -install WSL
-  >Open a command prompt with administrator privileges.
-  >Run this command and reboot your machine when prompted:
+  -Open a command prompt with administrator privileges.
+  -Run this command and reboot your machine when prompted:
 
 ![](git/install_WSL.png)
