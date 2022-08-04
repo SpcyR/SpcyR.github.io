@@ -16,7 +16,7 @@ title: Install Ubuntu
 
 
 -__Install WSL__
-  >(Windows11) Open a command prompt with administrator privileges and run this command then reboot your machine when prompted:
+  >Open a command prompt with administrator privileges and run this command then reboot your machine when prompted:
 
 ![](git/install_WSL.png)
 
@@ -47,4 +47,4 @@ sudo apt update -y && sudo apt upgrade -y
 ![](git/01.png)
 
 
-<img align="right" width="600" height="200" src="https://github.com/SpcyR/SpcyR.github.io/blob/main/git/00.png">
+<img align="right" width="600" height="200" src="https://raw.githubusercontent.com/SpcyR/SpcyR.github.io/main/git/00.png">
