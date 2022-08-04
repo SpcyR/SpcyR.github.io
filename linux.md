@@ -23,4 +23,4 @@ title: Install Ubuntu
 
   >Aleady!
  
-
+![](git/alr.png)
