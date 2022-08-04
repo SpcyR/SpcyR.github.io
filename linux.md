@@ -9,11 +9,14 @@ title: Install Ubuntu
 ### I've tried install Ubuntu. How do?
 
 
+
 -__Download Ubuntu Dextop__ from [Get Ubuntu]
 
 [Get Ubuntu]: https://ubuntu.com/download
 
 ![](git/ubuntu.png)
+
+
 
 
 -__Install WSL__
