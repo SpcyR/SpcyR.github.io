@@ -4,7 +4,7 @@
 
 Let me introduce myself. My name is Supitchaya Rodchomchin but you can call me Bew.
 
-![](git/me3.jpg#center)
+![](git/me3.jpg)
 
 Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</mark> at King Mongkut's University of Technology North Bangkok.
 
@@ -24,4 +24,9 @@ E-mail : rodchomchin7354@gmail.com|
 [Supitchaya Rodchomchin]: https://www.facebook.com/supitchaya.rodchomchin
 [13ew_45]: https://www.instagram.com/13ew_45
 
- 
+
+  
+    
+My page
+[Install Ubuntu]
+[Install Ubuntu]:https://spcyr.github.io/linux.html
