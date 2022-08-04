@@ -25,11 +25,10 @@ title: Install Ubuntu
 ![](git/alr.png)
 
 
--__Download Ubuntu Dextop__ from [Get Ubuntu]
+-__Download Ubuntu 22.04__ from Microsoft Store
 
-[Get Ubuntu]: https://ubuntu.com/download
 
 ![](git/ubuntu.png)
   
-![](git/root.png)
+![](git/welcome.png)
 
