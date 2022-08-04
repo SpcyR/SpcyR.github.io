@@ -11,7 +11,7 @@ title: Install Ubuntu
 
 [<<Back Home]: https://spcyr.github.io/
 
-### I've tried install Ubuntu. How I installed?
+<p style="font-family: cursive;"> <b> I've tried install Ubuntu. How I installed? </b> </p>
 
 
 -__Install WSL__
