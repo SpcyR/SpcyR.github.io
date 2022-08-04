@@ -27,6 +27,6 @@ E-mail : rodchomchin7354@gmail.com|
 
   
     
-My page
+### My page
 [Install Ubuntu]
-[Install Ubuntu]:https://spcyr.github.io/linux.html
+[Install Ubuntu]: https://spcyr.github.io/linux.html
