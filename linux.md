@@ -3,7 +3,7 @@
 ---
 -Download Ubuntu Dextop from [Get Ubuntu]
 
-[Get Ubuntu] : https://ubuntu.com/download
+[Get Ubuntu]: https://ubuntu.com/download
 
 
 ![](git/ubuntu22.04.png)
