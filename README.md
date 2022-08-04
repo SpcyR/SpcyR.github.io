@@ -25,9 +25,8 @@ E-mail : [rodchomchin7354@gmail.com]|
 [13ew_45]: https://www.instagram.com/13ew_45
 
 
-  
-    
-### My page
-[Install Ubuntu]
+<h3 style="color:#FFF3A9"> <b> My Page 🌻</b> </h3>    
+
+* [Install Ubuntu]
 
 [Install Ubuntu]: https://spcyr.github.io/linux.html
