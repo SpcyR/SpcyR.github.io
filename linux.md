@@ -45,3 +45,12 @@ sudo apt update -y && sudo apt upgrade -y
 
 ![](git/01.png)
 
+  
+  
+  
+  
+  
+#### reference 
+[tutorials]
+
+[tutorials]: https://docs.microsoft.com/en-us/windows/wsl/tutorials/gui-apps
