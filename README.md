@@ -15,7 +15,7 @@ Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</m
 
 
 
-<h3 style="color:#FFF3A9"> <b> My Page 🌻</b> </h3>    
+<h3 style="color:#FFF3A9"> <b> MY PAGE 🌻</b> </h3>    
 
 * [Install Ubuntu]
 
