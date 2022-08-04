@@ -31,6 +31,8 @@ title: Install Ubuntu
   
 ![](git/welcome.png)
   
-![](git/user.png)
+![](git/00.png)
   
 ![](git/spcy.png)
+
+![](git/01.png)
