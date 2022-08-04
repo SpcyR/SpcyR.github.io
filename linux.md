@@ -10,6 +10,11 @@ title: Install Ubuntu
 
 [Get Ubuntu]: https://ubuntu.com/download
 
+![](git/ubuntu.png)
 
-![](git/ubuntu22.04.png)
 
+-install WSL
+  >Open a command prompt with administrator privileges.
+  >Run this command and reboot your machine when prompted:
+
+![](git/install_WSL.png)
