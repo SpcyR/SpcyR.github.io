@@ -34,5 +34,14 @@ title: Install Ubuntu
 ![](git/00.png)
   
 ![](git/spcy.png)
+  
+  
+### __Try To Run Linux Commands__
+  
+>Check update and upgrade
+  
+'''
+sudo apt update -y && sudo apt upgrade -y
+'''
 
 ![](git/01.png)
