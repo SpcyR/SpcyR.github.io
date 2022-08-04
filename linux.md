@@ -7,4 +7,4 @@
 [Get Ubuntu]: https://ubuntu.com/download
 
 
-![](git/ubuntu22.04(1).png)
+![](git/ubuntu22.04.png)
