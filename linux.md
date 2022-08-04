@@ -29,7 +29,5 @@ title: Install Ubuntu
 
 ![](git/ubuntu.png)  
 ![](git/welcome.png)
-
-![](git/Screenshot(18).png)
-
-![](git/Screenshot(19).png)
+![](git/user.png)
+![](git/spcy.png)
