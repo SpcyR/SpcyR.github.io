@@ -13,6 +13,15 @@ Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</m
 
 > BORN IN 2002
 
+
+
+<h3 style="color:#FFF3A9"> <b> My Page 🌻</b> </h3>    
+
+* [Install Ubuntu]
+
+[Install Ubuntu]: https://spcyr.github.io/linux.html
+
+
 <h3 style="color:#FFF3A9"> <b> CONTACT 📫</b> </h3>
 
 Facebook : [Supitchaya Rodchomchin]|
@@ -24,9 +33,3 @@ E-mail : rodchomchin7354@gmail.com |
 [Supitchaya Rodchomchin]: https://www.facebook.com/supitchaya.rodchomchin
 [13ew_45]: https://www.instagram.com/13ew_45
 
-
-<h3 style="color:#FFF3A9"> <b> My Page 🌻</b> </h3>    
-
-* [Install Ubuntu]
-
-[Install Ubuntu]: https://spcyr.github.io/linux.html
