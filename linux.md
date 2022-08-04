@@ -2,7 +2,7 @@
 <head>
 <style>
 p {
-  style=font-family: serif;
+  style: font-family: serif;
 }
 </style>
 </head>
