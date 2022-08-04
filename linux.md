@@ -10,3 +10,7 @@ p {
 
 <p>
 <h3 style="color:#F7E684"> <b> INSTALL UBUNTU </b> </h3></p>
+
+
+
+</html>
