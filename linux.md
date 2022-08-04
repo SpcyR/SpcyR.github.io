@@ -45,4 +45,6 @@ sudo apt update -y && sudo apt upgrade -y
 ```
 
 ![](git/01.png)
- 
+
+
+<img align="right" width="600" height="200" src="https://github.com/SpcyR/SpcyR.github.io/blob/main/git/00.png">
