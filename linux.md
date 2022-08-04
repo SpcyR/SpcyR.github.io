@@ -7,9 +7,9 @@ title: Install Ubuntu
 
 ---
 
-[Back Home]
+[<<Back Home]
 
-[Back Home]: https://spcyr.github.io/
+[<<Back Home]: https://spcyr.github.io/
 
 
 ### I've tried install Ubuntu. How I installed?
