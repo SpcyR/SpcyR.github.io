@@ -11,7 +11,6 @@ title: Install Ubuntu
 
 [<<Back Home]: https://spcyr.github.io/
 
-
 ### I've tried install Ubuntu. How I installed?
 
 
@@ -46,5 +45,3 @@ sudo apt update -y && sudo apt upgrade -y
 
 ![](git/01.png)
 
-
-<img align="right" width="600" height="200" src="https://raw.githubusercontent.com/SpcyR/SpcyR.github.io/main/git/00.png">
