@@ -1,3 +1,7 @@
+---
+layout: default
+title: Install Ubuntu
+---
 
 <h2 style="color:#F7E684"> <b> INSTALL UBUNTU ⬇ </b> </h2>
 
@@ -8,3 +12,4 @@
 
 
 ![](git/ubuntu22.04.png)
+
