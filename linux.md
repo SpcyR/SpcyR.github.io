@@ -1,3 +1,4 @@
+
 <h2 style="color:#F7E684"> <b> INSTALL UBUNTU ⬇ </b> </h2>
 
 ---
@@ -6,4 +7,4 @@
 [Get Ubuntu]: https://ubuntu.com/download
 
 
-![](git/ubuntu22.04.png)
+![](git/ubuntu22.04(1).png)
