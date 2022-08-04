@@ -25,10 +25,9 @@ title: Install Ubuntu
 ![](git/alr.png)
 
 
--__Download Ubuntu 22.04__ from Microsoft Store
+-__Download Ubuntu 22.04 LTS__ from Microsoft Store
 
-
-![](git/ubuntu.png)
-  
+![](git/ubuntu.png)  
 ![](git/welcome.png)
-
+![](git/Screenshot (18).png)
+![](git/Screenshot (19).png)
