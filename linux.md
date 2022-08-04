@@ -6,6 +6,12 @@ title: Install Ubuntu
 <h2 style="color:#F7E684"> <b> INSTALL UBUNTU ⬇ </b> </h2>
 
 ---
+
+[Back Home]
+
+[Back Home]: https://spcyr.github.io/
+
+
 ### I've tried install Ubuntu. How I installed?
 
 
