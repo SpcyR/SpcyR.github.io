@@ -19,7 +19,7 @@ Facebook : [Supitchaya Rodchomchin]|
 
 Instagram : [13ew_45]|
  
-E-mail : rodchomchin7354@gmail.com|
+E-mail : [rodchomchin7354@gmail.com]|
 
 [Supitchaya Rodchomchin]: https://www.facebook.com/supitchaya.rodchomchin
 [13ew_45]: https://www.instagram.com/13ew_45
@@ -29,4 +29,5 @@ E-mail : rodchomchin7354@gmail.com|
     
 ### My page
 [Install Ubuntu]
+
 [Install Ubuntu]: https://spcyr.github.io/linux.html
