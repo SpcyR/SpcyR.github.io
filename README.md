@@ -20,7 +20,7 @@ Now I am studying <mark style="background-color:#FFF3A9">Computer Engineering</m
 * [Install Ubuntu]
 
 [Install Ubuntu]: https://spcyr.github.io/linux.html
-[Arduino Programming Problems] : https://spcyr.github.io/wokwi.html
+[Arduino Programming Problems]: https://spcyr.github.io/wokwi.html
 
 
 <h3 style="color:#FFF3A9"> <b> CONTACT 📫</b> </h3>
