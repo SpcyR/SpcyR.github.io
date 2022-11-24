@@ -19,5 +19,23 @@ $ sudo apt install mosquitto-clients -y
 
 ![](git/mqtt-y.png)
 
+*สำหรับการเขียนภาษาซี*
+```
+$ sudo apt install build-essential libmosquitto-dev -y
+```
+
+*สำหรับส่งข้อความในหัวข้อ test/1234/#*
+```
+$ mosquitto_pub -h test.mosquitto.org -p 1883 -t 'test/1234/msg' -m 'hello'
+```
+
+*สำหรับรับข้อความในหัวข้อ test/1234/#*
+```
+$ mosquitto_sub -h test.mosquitto.org -p 1883 -t 'test/1234/#'
+```
+
+*ผลลัพธ์จากการรับและส่งข้อความ*
+
+![](git/testmqtt.png)
 
 [<<Back Home]
