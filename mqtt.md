@@ -38,4 +38,6 @@ $ mosquitto_sub -h test.mosquitto.org -p 1883 -t 'test/1234/#'
 
 ![](git/testmqtt.png)
 
+*หากต้องการยกเลิกคำสั่งให้ใช้ `Ctrl` + `c`*
+
 [<<Back Home]
